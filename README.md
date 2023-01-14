@@ -1,4 +1,4 @@
-# NLP_twitter_data
+# NLP on Twitter Data (Sentiment Analysis)
 
 Libraries: Pandas, Numpy, Seaborn, Matplotlib, nltk, sklearn
 
